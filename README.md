@@ -1,1 +1,1 @@
-# genomics-workshop-pipeline
+## genomics-workshop-pipeline
